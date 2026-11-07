@@ -1,0 +1,8 @@
+{
+  "object": "Papaya",
+  "cuts": 50,
+  "watermark": "@ai.reviewbyamit",
+  "seed": null,
+  "render": {"engine": "eevee", "samples": 48, "width": 540, "height": 960, "fps": 24},
+  "tools": {"blender": "", "ffmpeg": "", "ffprobe": ""}
+}

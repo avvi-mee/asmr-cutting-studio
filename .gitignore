@@ -1,0 +1,7 @@
+# render output
+runs/
+
+# python
+__pycache__/
+*.pyc
+.venv/
